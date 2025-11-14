@@ -18,6 +18,8 @@
 -dontwarn androidx.window.extensions.**
 -dontwarn androidx.window.sidecar.Sidecar*
 
+-dontobfuscate
+
 -keepattributes LineNumberTable
 -allowaccessmodification
 -repackageclasses
